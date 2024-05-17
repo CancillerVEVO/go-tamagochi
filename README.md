@@ -1,0 +1,2 @@
+# go-tamagochi
+go tamagochi
